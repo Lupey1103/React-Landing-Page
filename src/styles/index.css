@@ -10,3 +10,18 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.jumbotron {
+    background-image: url(https://64.media.tumblr.com/9871dcf31c3de799c204cdc885ff7d1e/ba03b450f15e62cb-eb/s1280x1920/44600a25c021696d11fef5e4c20b3b959e9dd6bf.gifv);
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1 {
+    color: gold;
+}
+
+.jumbotron p {
+    color: gold;
+}
